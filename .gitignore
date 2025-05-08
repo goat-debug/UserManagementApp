@@ -1,0 +1,14 @@
+﻿# Build output
+bin/
+obj/
+
+# Visual Studio folders
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Others
+*.log
+*.exe
+*.dll
